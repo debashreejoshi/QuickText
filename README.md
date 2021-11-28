@@ -4,7 +4,7 @@ This is a coding challenge done for Blinq
 
 ## Launch Screen
 
-![.](Screenshots/LaunchScreen.png =20*20)
+![.](Screenshots/LaunchScreen.png)
 
 ## Add message screen
 
