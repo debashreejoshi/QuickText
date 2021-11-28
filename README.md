@@ -4,24 +4,24 @@ This is a coding challenge done for Blinq
 
 ## Launch Screen
 
-![.](Screenshots/LaunchScreen.png =50*50)
+![.](Screenshots/LaunchScreen.png) { width=50% }
 
 ## Add message screen
 
-![.](Screenshots/Add_message.png =50*50)
+![.](Screenshots/Add_message.png)
 
 ## Message List screen
 
-![.](Screenshots/Messages_List.png =50*50)
+![.](Screenshots/Messages_List.png)
 
 ## Edit Messsage screen
 
-![.](Screenshots/Edit_Message.png =50*50)
+![.](Screenshots/Edit_Message.png)
 
 ## Message Delete screen
 
-![.](Screenshots/Message_delete.png =50*50)
+![.](Screenshots/Message_delete.png)
 
 ## iMessage Screen
 
-![.](Screenshots/iMessage.png =50*50)
+![.](Screenshots/iMessage.png)
