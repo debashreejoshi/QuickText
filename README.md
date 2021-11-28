@@ -2,26 +2,26 @@
 
 This is a coding challenge done for Blinq
 
-Launch Screen
+### Launch Screen
 
-![.](Screenshots/LauncScreen.png)
+![.](Screenshots/LaunchScreen.png)
 
-Add message screen
+### Add message screen
 
 ![.](Screenshots/Add_message.png)
 
-Message List screen
+### Message List screen
 
 ![.](Screenshots/Message_List.png)
 
-Edit Messsage screen
+### Edit Messsage screen
 
 ![.](Screenshots/Edit_message.png)
 
-Message Delete screen
+### Message Delete screen
 
 ![.](Screenshots/Message_delete.png)
 
-iMessage Screen
+### iMessage Screen
 
 ![.](Screenshots/iMessage.png)
