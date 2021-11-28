@@ -41,12 +41,14 @@
       "size" : "1024x1024"
     },
     {
+      "filename" : "icon-messages-app-27x20@2x.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "2x",
       "size" : "27x20"
     },
     {
+      "filename" : "icon-messages-app-27x20@3x.png",
       "idiom" : "universal",
       "platform" : "ios",
       "scale" : "3x",
