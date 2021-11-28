@@ -4,7 +4,7 @@ This is a coding challenge done for Blinq
 
 ## Launch Screen
 
-![.](Screenshots/LaunchScreen.png) { width=50% }
+![.](Screenshots/LaunchScreen.png) {: height="36px" width="36px"}
 
 ## Add message screen
 
