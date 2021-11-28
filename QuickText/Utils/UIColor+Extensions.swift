@@ -28,7 +28,7 @@ extension UIColor {
     }
     
     static var appThemeColor: UIColor {
-        return UIColor.init(hexString: "#E1645D")
+        return UIColor.init(hexString: "#FF5E5B")
     }
 
 }

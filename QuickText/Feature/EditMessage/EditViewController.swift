@@ -15,6 +15,7 @@ class EditViewController: UIViewController {
         textView.textColor = .darkText
         textView.font = UIFont.systemFont(ofSize: 16)
         textView.translatesAutoresizingMaskIntoConstraints = false
+        textView.tintColor = UIColor.appThemeColor
         textView.isEditable = true
         return textView
     }()
